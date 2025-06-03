@@ -1,0 +1,41 @@
+{
+  "Format": "2.5.0",
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Aideen",
+      "FromFile": "assets/Aideen_Spring.png",
+      "When": {
+        "Season": "Spring"
+      },
+      "Priority": "Late"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Aideen",
+      "FromFile": "assets/Aideen_Summer.png",
+      "When": {
+        "Season": "Summer"
+      },
+      "Priority": "Late"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Aideen",
+      "FromFile": "assets/Aideen_Fall.png",
+      "When": {
+        "Season": "Fall"
+      },
+      "Priority": "Late"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Aideen",
+      "FromFile": "assets/Aideen_Winter.png",
+      "When": {
+        "Season": "Winter"
+      },
+      "Priority": "Late"
+    }
+  ]
+}
